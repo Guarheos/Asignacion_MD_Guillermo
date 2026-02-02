@@ -1,4 +1,4 @@
 # Asignacion_MD_Guillermo
 
-## Nombre: Guillermo Hernandes
+## Nombre: Guillermo Hernandez
 ## Cedula: 27.369.180
